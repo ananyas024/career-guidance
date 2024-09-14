@@ -1,0 +1,25 @@
+/* Navbar Styles */
+
+.custom-navbar {
+    background-color: #3f51b5;
+    border-bottom: 4px solid #3949ab;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand-custom {
+    color: #ffffff !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-link {
+    color: #ffffff !important;
+    font-size: 1.1rem;
+    margin-right: 15px;
+  }
+  
+  .navbar-link:hover {
+    color: #c5cae9;
+  }
+  
